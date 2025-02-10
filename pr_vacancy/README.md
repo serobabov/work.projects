@@ -27,3 +27,6 @@
 
 ---
 [Проект в Colab](https://colab.research.google.com/drive/1ZrbsAUpTdXFSJVpxBBrpOlbIG-3TS_18?usp=sharing)
+
+---
+[Статья](https://www.dp.ru/a/2025/02/10/srednjaja-zarplata-piarshhikov) по исследованию в "Деловом Петербурге"
