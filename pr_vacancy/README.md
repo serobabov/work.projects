@@ -29,4 +29,5 @@
 [Проект в Colab](https://colab.research.google.com/drive/1ZrbsAUpTdXFSJVpxBBrpOlbIG-3TS_18?usp=sharing)
 
 ---
-[Статья](https://www.dp.ru/a/2025/02/10/srednjaja-zarplata-piarshhikov) по исследованию в "Деловом Петербурге"
+[Статья о исследовании на РБК Компании](https://companies.rbc.ru/news/lFYoyN35WH/analitiki-kg-progress-vyiyasnili-kto-v-pr-zarabatyivaet-bolshe-vseh/)
+[Статья по исследованию в "Деловом Петербурге"](https://www.dp.ru/a/2025/02/10/srednjaja-zarplata-piarshhikov)
